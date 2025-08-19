@@ -1,0 +1,17 @@
+# Flipkart Web Scraper  
+
+A Python Selenium script that scrapes Flipkart mobile data (name, price, rating, reviews) brand-wise and exports it into a CSV file.  
+
+## Features  
+- Automates navigation on Flipkart  
+- Handles popups and brand filters  
+- Extracts key phone details  
+- Saves output to `flipkart.csv`  
+
+## Requirements  
+- Python 3.x  
+- Selenium  
+
+Install dependencies:  
+```bash
+pip install selenium
